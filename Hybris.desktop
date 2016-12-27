@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Hybris
+Exec=qmlscene $@ Main.qml
+Icon=Hybris.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

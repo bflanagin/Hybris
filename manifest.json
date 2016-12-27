@@ -1,0 +1,17 @@
+{
+    "name": "hybris.vagueentertainment",
+    "description": "description of Hybris",
+    "architecture": "all",
+    "title": "Hybris",
+    "hooks": {
+        "Hybris": {
+            "apparmor": "Hybris.apparmor",
+            "desktop":  "Hybris.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Benjamin Flanagin <bflanagin@vagueentertainment.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
